@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/constantVariableKeywords/constantVariableKeywords.iml" filepath="$PROJECT_DIR$/constantVariableKeywords/constantVariableKeywords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/core-Java.iml" filepath="$PROJECT_DIR$/.idea/core-Java.iml" />
+    </modules>
+  </component>
+</project>
